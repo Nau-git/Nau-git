@@ -16,5 +16,5 @@ Projects
 More of my resume in my [LinkedIn](bit.ly/naufal-linkedin)
 
 
-## Github Stats 
+#### Github Stats 
 [![Naufal' github stats](https://github-readme-stats.vercel.app/api?username=Nau-git&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
