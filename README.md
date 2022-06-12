@@ -13,7 +13,7 @@ Projects
 - [TBD](https://github.com/Nau-git) - TBD
 
 
-More of my resume in my [LinkedIn](https://bit.ly/naufal-linkedin)
+More of me in my [LinkedIn](https://bit.ly/naufal-linkedin)
 
 
 #### Github Stats 
