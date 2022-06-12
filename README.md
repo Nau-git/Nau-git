@@ -6,8 +6,8 @@
 - I'm looking for any opportunity/collaboration in data science especially as **data scientist** or **machine learning engineer**
 
 
-Projects 
-- [News Article Classification](https://github.com/Nau-git) - building an NLP model to classify news articles
+#### Projects 
+- [News Articles Classification](https://github.com/Nau-git/nlp_news_classification) - NLP model to classify news articles based on the title and description
 - [TBD](https://github.com/Nau-git) - TBD
 - [TBD](https://github.com/Nau-git) - TBD
 - [TBD](https://github.com/Nau-git) - TBD
