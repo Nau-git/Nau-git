@@ -9,7 +9,7 @@
 #### Projects 
 - [News Articles Classification](https://github.com/Nau-git/nlp_news_classification) - NLP model to classify news articles based on the title and description
 - [Customer Churn Prediction](https://github.com/Nau-git/DL_churn_prediction) - Deep learning model to predict customer churn based on provided information
-- [TBD](https://github.com/Nau-git) - TBD
+- [Customer Subscription Prediction](https://github.com/Nau-git/Cls_telemarketing) - A classification model to predict whether or not a customer will subscribe given a phone call
 - [TBD](https://github.com/Nau-git) - TBD
 
 
