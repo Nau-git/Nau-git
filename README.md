@@ -1,7 +1,7 @@
 
 
 👋👋 **Hi! My name is Naufal** 
-- Started learning programming and **data science** March 2022
+- Started learning programming and **data science** from March 2022
 - Attended Hacktiv8 Data Science Bootcamp 2022
 - I'm looking for any opportunity/collaboration in data science especially as **data scientist** or **machine learning engineer**
 
