@@ -12,7 +12,7 @@
 - [Customer Subscription Prediction](https://github.com/Nau-git/Cls_telemarketing) - A classification model to predict whether or not a customer will subscribe given a phone call
 - [Customer Churn Prediction](https://github.com/Nau-git/DL_churn_prediction) - Deep learning model to predict customer churn based on provided information
 - [News Articles Classification](https://github.com/Nau-git/nlp_news_classification) - NLP model to classify news articles based on the title and description
-- [TBD](https://github.com/Nau-git) - EMOTION: Economic Market Outlook predicTION. An app that does 2 jobs: predict closing price of selected financial instrument and predict a sentiment from a financial news headlines
+- [EMOTION: Economic Market Outlook predicTION](https://github.com/Nau-git/EMOTION) - EMOTION: Economic Market Outlook predicTION. An app that does 2 jobs: predict closing price of selected financial instrument and predict a sentiment from a financial news headlines
 - [TBD](https://github.com/Nau-git) - Project related to salary in Indonesia 
 
 
