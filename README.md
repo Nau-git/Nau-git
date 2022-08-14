@@ -13,7 +13,7 @@
 - [Customer Churn Prediction](https://github.com/Nau-git/DL_churn_prediction) - Deep learning model to predict customer churn based on provided information
 - [News Articles Classification](https://github.com/Nau-git/nlp_news_classification) - NLP model to classify news articles based on the title and description
 - [EMOTION: Economic Market Outlook predicTION](https://github.com/Nau-git/EMOTION) - EMOTION: Economic Market Outlook predicTION. An app that does 2 jobs: predict closing price of selected financial instrument and predict a sentiment from a financial news headlines
-- [TBD](https://github.com/Nau-git) - Project related to salary in Indonesia 
+- [TBD](https://github.com/Nau-git) - Next project 
 
 
 More of me in my [LinkedIn](https://bit.ly/naufal-linkedin)
