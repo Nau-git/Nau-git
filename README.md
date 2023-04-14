@@ -1,8 +1,8 @@
 
 
 👋 **Hi! My name is Naufal** 
-- Started learning programming and **data science** in March 2022
 - Attended Hacktiv8 Data Science Bootcamp. Graduated with Honors in June 2022
+- Current role is a research and development engineer, developing new products using AI/ML
 
 
 
