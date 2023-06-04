@@ -16,7 +16,7 @@
 - [TBD](https://github.com/Nau-git) - Next project 
 
 
-More of me in my [LinkedIn](https://bit.ly/naufal-linkedin)
+[LinkedIn](https://bit.ly/naufal-linkedin)
 
 
 #### Github Stats 
