@@ -19,5 +19,3 @@
 [LinkedIn](https://bit.ly/naufal-linkedin)
 
 
-#### Github Stats 
-[![Naufal' github stats](https://github-readme-stats.vercel.app/api?username=Nau-git&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
