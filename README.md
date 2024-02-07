@@ -1,19 +1,21 @@
 
 
-👋 **Hi! My name is Naufal** 
-- Attended Hacktiv8 Data Science Bootcamp. Graduated with Honors in June 2022
-- Current role is a research and development engineer, developing new products using AI/ML
+👋 **Hello! I'm Naufal**, a dedicated professional with a passion for data science and AI/ML technologies. 
+
+#### Background
+- Graduated with Honors from Hacktiv8 Data Science Bootcamp in June 2022.
+- Currently, I excel in my role as a research and development engineer, where I leverage AI and machine learning to innovate and develop cutting-edge products.
 
 
 
 #### Projects 
-- [Dashboard: Supermarket Data Analysis](https://github.com/Nau-git/dataviz_supermarket) - A dashboard created using python. Include several data visualizations and two hypothesis testings (T-test and ANOVA)
-- [Customer Subscription Prediction](https://github.com/Nau-git/Cls_telemarketing) - A classification model to predict whether or not a customer will subscribe given a phone call
-- [Clustering of CC Holders](https://github.com/Nau-git/unspvd_cluster_cc) - An unsupervised model to cluster cc holders based on their profiles
-- [Customer Churn Prediction](https://github.com/Nau-git/DL_churn_prediction) - Deep learning model to predict customer churn based on provided information
-- [News Articles Classification](https://github.com/Nau-git/nlp_news_classification) - NLP model to classify news articles based on the title and description
-- [EMOTION: Economic Market Outlook predicTION](https://github.com/Nau-git/EMOTION) - EMOTION: Economic Market Outlook predicTION. An app that does 2 jobs: predict closing price of selected financial instrument and predict a sentiment from a financial news headlines
-- [Podzer: Podcast Summarizer](https://github.com/Nau-git/podzer) - A simple yet useful app built using OpenAI's Whisper and gpt-3.5. Help make decision of listening to a full podcast by providing summarization.
+- [Dashboard: Supermarket Data Analysis](https://github.com/Nau-git/dataviz_supermarket) - Utilized Python to create an interactive dashboard showcasing insightful data visualizations and conducted hypothesis testing using T-test and ANOVA.
+- [Customer Subscription Prediction](https://github.com/Nau-git/Cls_telemarketing) - Developed a robust classification model to predict customer subscription likelihood based on phone call interactions.
+- [Clustering of CC Holders](https://github.com/Nau-git/unspvd_cluster_cc) - Employed unsupervised learning techniques to cluster credit card holders according to their profiles.
+- [Customer Churn Prediction](https://github.com/Nau-git/DL_churn_prediction) - Engineered a deep learning model to accurately forecast customer churn using provided data.
+- [News Articles Classification](https://github.com/Nau-git/nlp_news_classification) - Implemented an NLP model for categorizing news articles based on their titles and descriptions.
+- [EMOTION: Economic Market Outlook predicTION](https://github.com/Nau-git/EMOTION) - Developed an application that predicts the closing price of financial instruments and extracts sentiment from financial news headlines.
+- [Podzer: Podcast Summarizer](https://github.com/Nau-git/podzer) - Created an efficient summarization tool using OpenAI's Whisper and GPT-3.5, aiding in informed decisions about podcast consumption.
 - [TBD](https://github.com/Nau-git) - Next project 
 
 
