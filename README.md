@@ -39,6 +39,10 @@ I'm Naufal, a passionate Data Scientist and AI/ML enthusiast. With a various han
 
 - Created an efficient summarization tool using OpenAI's Whisper and GPT-3.5, aiding in informed decisions about podcast consumption.
 
+### [Raggy: A RAG Chatbot](https://github.com/Nau-git/rag-chatbot)
+
+- Created an LLM-powered chatbot that specialized in prompt engineering.
+
 ## 🏆 Education
 
 - Graduated with Honors from Hacktiv8 Data Science Bootcamp in June 2022.
