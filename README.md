@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm Naufal, a passionate Data Scientist and AI/ML enthusiast. With a various hands-on experience in data science and machine learning, I thrive on solving complex problems and developing innovative solutions.
+I'm Naufal, an AI/ML enthusiast. With a various hands-on experience in data science, machine learning and AI, I thrive on solving real-world problems and developing innovative solutions.
 
 ## 💻 Skills
 
@@ -42,6 +42,12 @@ I'm Naufal, a passionate Data Scientist and AI/ML enthusiast. With a various han
 ### [Raggy: A RAG Chatbot](https://github.com/Nau-git/rag-chatbot)
 
 - Created an LLM-powered chatbot that specialized in prompt engineering.
+
+### [Local RAG](https://github.com/Nau-git/RAG-local)
+- Fully local RAG Chatbot
+
+### [Vagant](https://github.com/Nau-git/vacay_agent)
+- AI agent to help in vacation planning
 
 ## 🏆 Education
 
